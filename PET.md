@@ -1,4 +1,4 @@
-# Happy Pythonist's Python Allround Training (PET) syllabus
+# Happy Pythonist's Python Essential Training (PET) syllabus
 
 ## 1. Welcome
 
