@@ -1,19 +1,16 @@
 # Happy Pythonist's Python Essential Training (PET) syllabus
 
-## 1. Welcome
-
+## 1. Welcome 🙏🏼
 Welcome note and introduction to the course, overview of syllabus, what learners will obtain at the end of course.
 
-## 1. Introduction to Programming
-
+## 1. Introduction to Programming 🗣️
 1. Why programming exists ?
 
 2. Applications of programming
 
 3. Programming languages and their use cases
 
-## 2. Introduction to Python
-
+## 2. Introduction to Python 🐍
 1. standard input and output
 
 2. built-in types
