@@ -4,74 +4,74 @@
 Welcome note and introduction to the course, overview of syllabus, what learners will obtain at the end of course.
 
 ## 1. Introduction to Programming 🗣️
-1. Why programming exists ?
+a. Why programming exists ?
 
-2. Applications of programming
+b. Applications of programming
 
-3. Programming languages and their use cases
+c. Programming languages and their use cases
 
 ## 2. Introduction to Python 🐍
-1. standard input and output
+a. standard input and output
 
-2. built-in types
+b. built-in types
 
-3. advanced Data Types
+c. advanced Data Types
 
-4. doing math with Python
+d. doing math with Python
 
 ## 3. Control structures in Python ⚙️
-1. If/else/match/case
+a. If/else/match/case
 
-2. loops
+b. loops
 
-3. control flow using break, return, and exit
+c. control flow using break, return, and exit
 
-## 4. Functions 𝐟
-1. basic function design
+## 4. Functions _𝐟()_
+a. basic function design
 
-2. positional and Keyword arguments
+b. positional and Keyword arguments
 
-3. building Iterators
+c. building Iterators
 
 ## 5. Text Processing with Python 📗
-1. string utility functions
+a. string utility functions
 
-2. string formatting
+b. string formatting
 
 ## 6. Data manipulation  📀
-1. read and write files
+a. read and write files
 
-2. pickling data for further use
+b. pickling data for further use
 
 ## 7. Date and time manipulation 🕑
-1. reading dates
+a. reading dates
 
-2. creating ISO date strings & unix timestamps
+b. creating ISO date strings & unix timestamps
 
-3. creating relative dates
+c. creating relative dates
 
 ## 8. Error handling in Python 🐞
-1. why to handle exceptions ?
+a. why to handle exceptions ?
 
-2. Python built-in exceptions
+b. Python built-in exceptions
 
-3. raising and catching errors
+c. raising and catching errors
 
 ## 9. Object-oriented programming 🧩
-1. how Python can be used for OOP
+a. how Python can be used for OOP
 
-2. classes and objects
+b. classes and objects
 
-3. constructors and class inheritance
+c. constructors and class inheritance
 ## 10. Functional programming 🗺️
 
-1. how Python can be used for FP
+a. how Python can be used for FP
 
-2. map, reduce and filter
+b. map, reduce and filter
 
 ## 11. Testing your Python code 🧪
-1. writing simple tests for functions
+a. writing simple tests for functions
 
-2. writing tests for classes
+b. writing tests for classes
 
 ## 12 Summary of course
