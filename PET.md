@@ -75,3 +75,6 @@ a. writing simple tests for functions
 b. writing tests for classes
 
 ## 12 Summary of course
+a. Revision of all chapters
+
+b. Next steps in learning
