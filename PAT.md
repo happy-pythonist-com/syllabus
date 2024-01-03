@@ -1,10 +1,10 @@
 # Happy Pythonist's Python Allround Training (PAT) syllabus
 
-## 1. Welcome
+## 1. Welcome (15 mins)
 
 Welcome note and introduction to the course, overview of syllabus, what learners will obtain at the end of course.
 
-## 2. Basics of Python
+## 2. Recap of Basics - (1 hr)
 
 1. standard input and output
 
@@ -14,40 +14,32 @@ Welcome note and introduction to the course, overview of syllabus, what learners
 
 4. doing math with Python
 
-5. if/else/match/case
+5. if/else, match/case
 
 6. loops
 
 7. control flow using break, return, and exit
 
-## 3. Python development environment setup
 
-1. IDE vs Scripts vs Jupyter Notebook vs Shell
+## 2. Recap of Basics - 2 (1 hr)
 
-2. Virtual Environments
+1. functions - Basic, Higher-Order, Decorators
 
-3. Visual Studio Code & Python plugin usage
+2. classes - Regular, Static Methods, and Data classes
+
+3. data handling in Python
 
 
-## 4. Functions
+## 3. Error handling in Python (1 hr)
 
-1. basic and advanced function design
+1. why to handle exceptions ?
 
-2. positional and Keyword arguments
+2. Python built-in exceptions
 
-3. building Iterators & decorators
+3. raising and catching errors
 
-## 5. Text Processing with Python
 
-1. string utility functions
-
-2. read files
-
-3. CSV & JSON processing
-
-4. Templating with Python
-
-## 6. Date and time manipulation
+## 4. Date and time manipulation (1 hr)
 
 1. reading dates
 
@@ -55,15 +47,8 @@ Welcome note and introduction to the course, overview of syllabus, what learners
 
 3. creating relative dates
 
-## 7. Error handling in Python
 
-1. why to handle exceptions
-
-2. Python built-in exceptions
-
-3. raising and catching errors
-
-## 8. Package management
+## 5. Package management (1 hr)
 
 1. Python modules
 
@@ -71,7 +56,7 @@ Welcome note and introduction to the course, overview of syllabus, what learners
 
 3. creating a custom package
 
-## 9. Object-oriented programming
+## 6. Object-oriented programming (1 hr)
 
 1. how Python can be used for OOP ?
 
@@ -79,21 +64,22 @@ Welcome note and introduction to the course, overview of syllabus, what learners
 
 3. constructors and class inheritance
 
-## 10. Functional programming
+
+## 7. Functional programming (1 hr)
 
 1. how Python can be used for FP
 
 2. map, reduce and filter
 
-## 11. Testing your Python code
+## 8. Testing your Python code (1 hr)
 
-1. Writing unit tests for functions
+1. writing unit tests for functions
 
-2. Writing tests for classes
+2. writing tests for classes
 
 3. mocking data for unit tests using MagicMock
 
-## 12. Databases & Python
+## 9. Databases & Python (1 hr)
 
 1. sql package
 
@@ -103,12 +89,15 @@ Welcome note and introduction to the course, overview of syllabus, what learners
 
 4. postgres
 
-## 13. Web Development with Python
+## 10. Web Development with Python (1 hr)
 
 1. available frameworks
 
-2. Flask
+2. Docker
 
-3. Django
+3. Fastapi
 
-## 14. Summary of course
+4. Django
+
+## 11. Recap of everything (1 hr)
+
